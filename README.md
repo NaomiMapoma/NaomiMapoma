@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
+<img src="./images/banner.png" alt="banner" />
+</div>
 
-<!--
-**NaomiMapoma/NaomiMapoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💁🏾‍♀️ &nbsp; about me
 
-Here are some ideas to get you started:
+💻 &nbsp; performance marketing lead & data analyst with 8+ years experience<br />
+📖 &nbsp; currently learning marketing data science to improve technical knowledge<br />
+📊 &nbsp; love data storytelling & uncovering unique insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 &nbsp; projects
+
+| name | description |
+| --- | --- |
+| [`portfolio-projects`](https://github.com/NaomiMapoma/Portfolio-Projects) | take a look through a few of my marketing data projects |
+
+## 🛠️ &nbsp; tools & tech
+
+<ul>
+  <li>MySQL</li>
+  <li>Python</li>
+  <li>Tableau</li>
+  <li>Visual Studio Code</li>
+  <li>Jupyter Notebook</li>
+</ul>
+
+## 🔗 &nbsp; let's connect
+
+👩🏾‍💻 &nbsp; linkedin: (https://linkedin.com/in/naomi-mapoma)
